@@ -2,32 +2,23 @@
 👋 Oi! Eu me chamo João Victor
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
-📚 Estudante de TSI
+📚 Atualmente cursando Tecnologia em Sistemas para Internet
 🌱 Iniciando meus estudos em Backend
 
 </div>
 🧑‍💻 Sobre mim
 
-Sou formado em ADS, atualmente estudante de TSI, e estou no começando agora minha jornada como desenvolvedor.
+Sou formado em ADS, atualmente cursando TSI, e estou no começando agora minha jornada como desenvolvedor.
 
 No momento, estou com foco em aprender backend no tempo livre, e estudando aos poucos como funcionam servidores, APIs e bancos de dados.
 Uso o GitHub para guardar estudos, exercícios e projetos simples, acompanhando minha evolução com o tempo.
 
 Ainda estou aprendendo, errando bastante 😅 e melhorando um pouco a cada dia.
 
-📚 O que estou estudando
+📚 O que estou estudando na faculdade.
 💻 Fundamentos
 
-Lógica de programação
-
-HTML, CSS e JavaScript
-
-Java
-
-⚙️ Backend (iniciante)
-
-Noções de Java e Spring Boot
-Banco de dados (SQL – básico)
+Lógica de programação, HTML, CSS, JavaScript e Java.
 
 📁 Repositórios
 
