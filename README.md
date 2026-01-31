@@ -22,9 +22,7 @@ Lógica de programação, HTML, CSS, JavaScript e Java.
 
 📁 Repositórios
 
-Aqui você vai encontrar:
-
-trabalhos da faculdade, exercícios de estudo e alguns projetos simples.
+trabalhos da faculdade exercícios de estudo e alguns projetos simples.
 
 Nada muito avançado ainda — o objetivo é aprender e evoluir.
 
